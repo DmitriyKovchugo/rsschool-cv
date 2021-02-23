@@ -2,7 +2,7 @@
 2. **Email:** dkovchugo@mail.ru,**telegram:** dkovchugo,**github:** [DmitriyKovchugo](https://github.com/DmitriyKovchugo), **phone:** +375295143602  
 3. **A little about me:** I aim to get better every day and eventually become a valuable employee in an area where there are opportunities for self-realization. I always achieve my goals, even if it takes a very long time.
 4. **My skill's:** HTML, CSS, JS, React, SQL, С++, C#, Git, Network technologies
-5.**Code Examples:** Some code examples can be found here [GitHub](https://github.com/DmitriyKovchugo)
+5. **Code Examples:** Some code examples can be found here [GitHub](https://github.com/DmitriyKovchugo)
 6.**Practical experience:** During my training at the military academy, I developed two electronic training manuals. During the course, I completed tasks.
 [Travel](https://dmitriykovchugo.github.io/Es_landing-coder_for_life-/)
 [Defend(MA)]()
