@@ -8,4 +8,4 @@
 [Defend(MA)]()
 [Marche(MA)]()
 7. **Training:** I studied at the military academy as a system administrator. I take a course on React and JS on udemy, and also take a course on JS / FRONT-END in The Rolling Scopes.I trained myself with the help of learn.javascript.ru and youtube channels. 
-8. **Level of English language proficiency: ** 
+8. **Level of English language proficiency:** A2 
